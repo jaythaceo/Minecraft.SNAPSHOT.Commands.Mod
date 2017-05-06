@@ -1,5 +1,30 @@
 Changelog:
 
+v0.6-r55
+Added Basic Income :)
+Now gives new players their head on first connect.
+
+Fixed Issue #1 
+Fixed Issue #2 
+
+v0.6-r54
+Added .bal/.balance
+Removed sidebar display
+tablist now displays rank
+Updated .help and .commands to reflect new additions
+
+Fixed Issue #5
+
+
+v0.6-r53
+Added experience_bottle to .shop
+Tab list now shows money instead of rank
+Improved horse moving too quickly filter to filter all entities
+Added .reset command to reset your money to 100
+
+Fixed Issue #3
+Fixed Issue #4
+
 v0.6-r52
 Added .tpyes .tpno aliases for .tpaccept and .tpdeny
 Added some more requested items to shop.
